@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋Sou a  professora Flávia
+Atuo em Alvorada do Sul  e em Bela Vista do Paraíso
+Leciono com a disciplina de Química.
 
+
+
+{https://github.com/flaviactavares/flaviactavares/edit/main/README.md
 <!--
 **flaviactavares/flaviactavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
